@@ -7,5 +7,6 @@ class applicationTest {
     @Test
     void main() {
         assertThat(1).isEqualTo(2);
+
     }
 }
